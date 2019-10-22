@@ -1,0 +1,2 @@
+# In this script I will Calculate the probability distributions for rolling a 20 sided die (d20) with advantage
+# (that is keeping the best roll) and disadvantage (that is keeping the worst one). More to come soon!
